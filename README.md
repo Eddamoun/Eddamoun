@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi, I'm Mohammed 👋
 
-<!--
-**Eddamoun/Eddamoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run [**Eddamoun.com**](https://eddamoun.com), an honest software comparison platform helping small businesses pick the right tools without the marketing noise.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔍 What I write about
+
+- **SaaS Comparisons** — ClickUp vs Notion, Asana vs Monday, ConvertKit vs Brevo
+- **Web Hosting Reviews** — Honest takes on Hosting.com, Kinsta, DreamHost, Namecheap, FastComet, Vultr
+- **AI Writing Tools** — Rytr, Sudowrite, ChatGPT, Claude
+- **SEO Tools** — Mangools, SE Ranking, Semrush
+
+#### 📚 Most popular guides
+
+- [Best Web Hosting in 2026: 6 Tested Options](https://eddamoun.com/best-web-hosting)
+- [Is ClickUp Good? Honest Review 2026](https://eddamoun.com/blog/is-clickup-good)
+- [Mangools Review 2026: Worth $29/Month?](https://eddamoun.com/blog/mangools-review)
+- [Is Kinsta Good in 2026?](https://eddamoun.com/blog/is-kinsta-good)
+- [Is Xero Good? Complete Small Business Accounting Review](https://eddamoun.com/blog/is-xero-good)
+
+#### 🛠️ Tech behind Eddamoun
+
+Static HTML, hand-coded CSS, vanilla JavaScript. 100/100 PageSpeed score. No WordPress, no bloated frameworks. Just clean, fast pages.
+
+#### 📬 Get in touch
+
+- Website: [eddamoun.com](https://eddamoun.com)
+- X / Twitter: [@EddamounTools](https://x.com/EddamounTools)
+- Email: via [eddamoun.com/contact](https://eddamoun.com/contact)
+
+---
+
+*Founder of Eddamoun.com. Honest comparisons of business software, hosting, and AI tools. No fluff, just data.*
