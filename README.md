@@ -14,7 +14,6 @@ I run [**Eddamoun.com**](https://eddamoun.com), an honest software comparison pl
 #### 📚 Most popular guides
 
 - [Best Web Hosting in 2026: 6 Tested Options](https://eddamoun.com/best-web-hosting)
-- [Is ClickUp Good? Honest Review 2026](https://eddamoun.com/blog/is-clickup-good)
 - [Mangools Review 2026: Worth $29/Month?](https://eddamoun.com/blog/mangools-review)
 - [Is Kinsta Good in 2026?](https://eddamoun.com/blog/is-kinsta-good)
 - [Is Xero Good? Complete Small Business Accounting Review](https://eddamoun.com/blog/is-xero-good)
